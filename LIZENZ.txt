@@ -1,0 +1,25 @@
+SpeedyShips
+Copyright (c) 2026 Silas Maile. Alle Rechte vorbehalten.
+
+Es ist nicht gestattet, das Spiel, die Audioaufnahmen oder einzelne Bestandteile
+(insbesondere Programmcode, Grafiken, Symbole, Geräusche und Sprachaufnahmen)
+ohne Wissen und Zustimmung des Autors Silas Maile zu kopieren, zweckzuentfremden,
+weiterzugeben oder anderweitig zu verwenden.
+
+
+Verwendete Fremdsoftware
+------------------------
+Von obiger Einschränkung ausgenommen sind die mitgelieferten Bibliotheken
+Dritter. Für sie gelten ausschließlich ihre eigenen Lizenzen:
+
+* Qt (The Qt Company Ltd. und andere), Dateien Qt6*.dll und die Unterordner mit
+  Qt-Plugins: GNU Lesser General Public License v3 (LGPLv3).
+  Lizenztext: https://www.gnu.org/licenses/lgpl-3.0.html
+  Quellcode:  https://download.qt.io/
+  Die Qt-Bibliotheken dürfen durch eigene, kompatible Versionen ersetzt werden.
+
+* FFmpeg (falls mitgeliefert, Dateien av*.dll, sw*.dll):
+  GNU Lesser General Public License v2.1 oder neuer, https://ffmpeg.org/
+
+* Microsoft Visual C++ Laufzeitbibliotheken (msvcp*.dll, vcruntime*.dll):
+  weitergegeben gemäß den Lizenzbedingungen von Microsoft Visual Studio.
