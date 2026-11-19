@@ -1,6 +1,6 @@
 # SpeedyShips – Schiffe versenken im Browser
 
-**[▶ Jetzt spielen](https://kryptomane.github.io/speedyships-web/)** – ohne Installation, direkt im Browser.
+**[▶ Jetzt spielen](https://kryptomane.github.io/2026_Web_Ships/)** – ohne Installation, direkt im Browser.
 
 ![SpeedyShips im Spiel](game.png)
 
